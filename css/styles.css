@@ -11208,7 +11208,7 @@ figure {
 }
 
 figcaption {
-  background-color: black;
+  background-color: transparent;
   color: white;
   font-style: italic;
   padding: 2px;
