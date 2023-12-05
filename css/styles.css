@@ -11201,10 +11201,3 @@ body {
 .footer {
   padding: 5rem 0;
 }
-figcaption {
-  position: absolute;
-  bottom: 0;
-  height: 10%;
-  width: 100%;
-  border: 1px solid blue;
-}
